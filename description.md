@@ -95,4 +95,4 @@ In your presentation, you will present your game. You may show your code, but th
 * Possible future improvements
 * Demo of the game (remember to save time for it)
 
-Each student gets 7 minutes to present his or her game. Your presentation may be shorter (this is no problem, its about the content, not the duration), but not longer. 
+Each student gets 10 minutes to present his or her game. Your presentation may be shorter (this is no problem, its about the content, not the duration), but not longer. 
